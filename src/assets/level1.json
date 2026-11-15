@@ -1,0 +1,67 @@
+{
+  "id": 1,
+  "name": "Bosque de Bambú",
+  "subtitle": "El bambú cruje... y alguien susurra tu nombre",
+  "theme": "bamboo",
+  "darkness": 0.9,
+  "particle": "ash",
+  "fireflies": true,
+  "hints": [
+    "¡Akari! Usa ← → (o A / D) para moverte y ↑ / W / Espacio para saltar. Mantén el salto para llegar más alto.",
+    "Los Yurei flotan en la oscuridad. Pulsa X (o J) para lanzar un DESTELLO: los paraliza... pero gasta llama.",
+    "Un Yurei paralizado se disuelve si le saltas encima. Toca los muñecos de papel (katashiro) para rescatar a los habitantes.",
+    "El aceite recarga tu llama. Los faroles de piedra guardan tu camino si tu llama se apaga.",
+    "Rescata a todos y cruza el torii. Si la llama llega a cero, perderás una de tus 3 mechas."
+  ],
+  "decor": [
+    {
+      "type": "bamboo_front",
+      "col": 14,
+      "row": 14,
+      "alpha": 0.7
+    },
+    {
+      "type": "bamboo_front",
+      "col": 33,
+      "row": 14,
+      "alpha": 0.7
+    },
+    {
+      "type": "bamboo_front",
+      "col": 58,
+      "row": 14,
+      "alpha": 0.7
+    },
+    {
+      "type": "bamboo_front",
+      "col": 85,
+      "row": 14,
+      "alpha": 0.7
+    },
+    {
+      "type": "bamboo_front",
+      "col": 108,
+      "row": 14,
+      "alpha": 0.7
+    }
+  ],
+  "map": [
+    "                                                                                                                        ",
+    "                                                                                                                        ",
+    "                                                                                                                        ",
+    "                                                                                                                        ",
+    "                                                                                                                        ",
+    "                                                                                                                        ",
+    "                                                                                                                        ",
+    "                                                                                                                        ",
+    "                                                                  K                                                     ",
+    "                                                                 ----                                                   ",
+    "                                                                                                                        ",
+    "                                                 oo          oo                                   O                     ",
+    "                                               -----        ----                 o               ---                    ",
+    "         o o o      o o              Y                          Y            oo ###    Y               oo Y             ",
+    "  P  k                        k         k   K          C k O                    ###       C k                 K     E   ",
+    "#########################   ##################       ##################    #####################     ###################",
+    "#########################   ##################       ##################    #####################     ###################"
+  ]
+}

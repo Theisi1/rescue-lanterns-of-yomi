@@ -1,0 +1,113 @@
+{
+  "id": 2,
+  "name": "Pueblo de Kurokiri",
+  "subtitle": "El festival sigue puesto. Nadie volvió a recogerlo",
+  "theme": "village",
+  "darkness": 0.92,
+  "particle": "ash",
+  "hints": [
+    "Hay caminos que solo existen para los muertos. MANTÉN C (o K / Shift) para la VISIÓN DE YOMI: revela plataformas espirituales, pero consume llama.",
+    "Cuidado con el suelo del pueblo: algo bajo la tierra tiene hambre. Si tiembla, no te quedes quieto.",
+    "Si oyes viento, salta: las Kamaitachi cruzan a toda velocidad y roban llama. El incienso aleja a los espíritus.",
+    "Las plataformas espirituales también llevan a lugares altos. Mira bien: alguien espera allá arriba."
+  ],
+  "decor": [
+    {
+      "type": "lantern_red",
+      "col": 8,
+      "row": 9,
+      "alpha": 0.9
+    },
+    {
+      "type": "lantern_red",
+      "col": 15,
+      "row": 9,
+      "alpha": 0.9
+    },
+    {
+      "type": "lantern_red",
+      "col": 35,
+      "row": 9,
+      "alpha": 0.9
+    },
+    {
+      "type": "lantern_red",
+      "col": 47,
+      "row": 9,
+      "alpha": 0.9
+    },
+    {
+      "type": "lantern_red",
+      "col": 64,
+      "row": 9,
+      "alpha": 0.9
+    },
+    {
+      "type": "lantern_red",
+      "col": 70,
+      "row": 9,
+      "alpha": 0.9
+    },
+    {
+      "type": "lantern_red",
+      "col": 95,
+      "row": 9,
+      "alpha": 0.9
+    },
+    {
+      "type": "lantern_red",
+      "col": 103,
+      "row": 9,
+      "alpha": 0.9
+    },
+    {
+      "type": "lantern_red",
+      "col": 112,
+      "row": 9,
+      "alpha": 0.9
+    },
+    {
+      "type": "lantern_red",
+      "col": 131,
+      "row": 9,
+      "alpha": 0.9
+    },
+    {
+      "type": "stall",
+      "col": 12,
+      "row": 14,
+      "alpha": 0.85
+    },
+    {
+      "type": "stall",
+      "col": 47,
+      "row": 14,
+      "alpha": 0.85
+    },
+    {
+      "type": "stall",
+      "col": 100,
+      "row": 14,
+      "alpha": 0.85
+    }
+  ],
+  "map": [
+    "                                                                                                                                            ",
+    "                                                                                                                                            ",
+    "                                                                                                                                            ",
+    "                                                                                                                                            ",
+    "                                                                                                                                            ",
+    "                                                                                                                                            ",
+    "                                                                                                                                            ",
+    "                                                                                                                                            ",
+    "                                                                            K                                                               ",
+    "                                                                           ~~~                                                              ",
+    "                                                                                                                                            ",
+    "                       o   o                               K             o          o                                      oo               ",
+    "                        O                                #####          ---        ---                                                      ",
+    "          o o         ~~~ ~~~             o     o Y      #####                                     o         Y      o     ~~~~              ",
+    "  P  k                           k   G  K    G       C   ##### k  W O  I                   k C   W   G   G     J  K               S    E    ",
+    "#####################          ##################################################        ################################      #############",
+    "#####################          ##################################################        ################################      #############"
+  ]
+}

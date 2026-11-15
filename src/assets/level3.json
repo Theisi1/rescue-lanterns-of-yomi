@@ -1,0 +1,76 @@
+{
+  "id": 3,
+  "name": "Sendero de los Mil Torii",
+  "subtitle": "Mil puertas rojas... y solo una lleva a alguna parte",
+  "theme": "shrine",
+  "darkness": 0.94,
+  "particle": "petal",
+  "hints": [
+    "Las cabezas de los Rokurokubi caen de los techos. Si ves una asomarse, ¡no te quedes debajo! Los Hitodama persiguen tu luz.",
+    "Los torii no terminan... a menos que mires con los ojos de los muertos. Cruza el último con la Visión de Yomi activa.",
+    "Más allá está la Puerta de Yomi. Llena tu llama antes de cruzar."
+  ],
+  "decor": [
+    {
+      "type": "torii",
+      "col": 8,
+      "row": 14,
+      "alpha": 0.8
+    },
+    {
+      "type": "torii",
+      "col": 70,
+      "row": 14,
+      "alpha": 0.8
+    },
+    {
+      "type": "torii",
+      "col": 76,
+      "row": 14,
+      "alpha": 0.8
+    },
+    {
+      "type": "torii",
+      "col": 82,
+      "row": 14,
+      "alpha": 0.8
+    },
+    {
+      "type": "torii",
+      "col": 88,
+      "row": 14,
+      "alpha": 0.8
+    },
+    {
+      "type": "torii",
+      "col": 150,
+      "row": 14,
+      "alpha": 0.8
+    },
+    {
+      "type": "torii_true",
+      "col": 90,
+      "row": 14,
+      "yomi": true
+    }
+  ],
+  "map": [
+    "              #################                                                                                   ###################                           ",
+    "              #################                                                                                   ###################                           ",
+    "              #################                                                                                   ###################                           ",
+    "              #################                                                                                   ###################                           ",
+    "                  R       R                                                                                          R     R     R                              ",
+    "                                                                                                                                                                ",
+    "                                                                                                                                                                ",
+    "                                                                                                                                                                ",
+    "                                                            H                                               Ko                                                  ",
+    "                                                                                                        H  ----                                                 ",
+    "                                              H                                                                  H                                              ",
+    "                                       K                 o   o                                         o                                       oo               ",
+    "                                    o ### o              -- --                                        ----                                                      ",
+    "        o o     o       o          #########                            o      o  Y                                      o      o             ~~~~              ",
+    "  P  k                K         ##############  C   O           k B O      K              T       C F                  L      K        O k                 E    ",
+    "########################################################       ##############################################################################      #############",
+    "########################################################       ##############################################################################      #############"
+  ]
+}
